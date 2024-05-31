@@ -1,0 +1,30 @@
+#calculator {
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #output {
+    height: 200px;
+  }
+  
+  #history, #result {
+    font-size: 30px;
+    display: inline-block;
+    text-align: right;
+    width: 70%;
+    padding-right: 10px;
+  }
+  
+  #keyboard button {
+    width: 70px;
+    height: 70px;
+    font-size: 20px;
+    margin: 10px;
+  }
+  
+  #clear, #backspace, #equals {
+    width: 154px;
+  }
+  

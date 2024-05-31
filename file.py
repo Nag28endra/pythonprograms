@@ -1,0 +1,5 @@
+# f =  open('myfile.txt','x')
+f = open('myfile.txt','w') 
+f.write('hello nagendra welcome to files concept\n')
+f.writelines('area 51 and this is to inform you that there is an alien in the contaminent')
+f.close()
